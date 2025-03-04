@@ -32,8 +32,8 @@ Bu uygulama, günlük görevlerinizi kolayca yönetmenize yardımcı olan bir To
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```
-   git clone https://github.com/kullaniciadi/to-do-list.git
-   cd to-do-list
+   git clone https://github.com/fastuptime/ToDo_List_Electron.git
+   cd ToDo_List_Electron
    ```
 
 2. Bağımlılıkları yükleyin:
